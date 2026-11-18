@@ -9,7 +9,7 @@ ErgoAgent 核心闭源（见《ErgoAgent 免费使用许可》），但生态开
 | 文档 | 内容 |
 |---|---|
 | [01 · Manifest](docs/01-manifest.md) | `ergoagent.plugin.json` 字段定义与示例 |
-| [02 · 能力分级](docs/02-capability-tiers.md) | T0/T1/T2 三级能力模型、陌生人可发布范围、运行时强制 |
+| [02 · 能力分级](docs/02-capability-tiers.md) | T0/T1/T2 三级能力模型、创作者可发布范围、运行时强制 |
 | [03 · 签名与上架](docs/03-signing-and-submission.md) | 密钥签名、PR 提交流程、机器门禁清单、人工审核例外、安全评级 |
 | [04 · 网络申报与安装同意](docs/04-network-and-consent.md) | `network.domains` 申报、安装时权限明示与风险提示、运行时一次性授权 |
 | [05 · 滥用处理与吊销](docs/05-abuse-and-revocation.md) | 举报渠道、响应时限、签名吊销、下架与事件手册 |
